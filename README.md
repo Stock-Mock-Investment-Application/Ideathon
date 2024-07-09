@@ -36,6 +36,7 @@ DailyScrum
 
 ---
 ⭐ 평가
+<br>
 SUB Project 1 - (1주) - 7/12
 평가 기준: Daily Scrum(MM) Jira 및 TIL 정리(Gitlab)
 
