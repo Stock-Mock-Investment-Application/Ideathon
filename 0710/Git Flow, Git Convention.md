@@ -13,6 +13,6 @@ Commit Message만 읽고도 어떤 부분을 수정했는지 알 수 있도록 �
 [ Git branch Convention ] <br>
 [ Jira Convention ] <br>
 [ Code Convention ] <br>
- <br> <br>
+ <br>
 1일 1커밋을 생활화하자.  <br>
 나중에 한번에 합치지 말고, 중간중간 커밋을 잘 해주자 
