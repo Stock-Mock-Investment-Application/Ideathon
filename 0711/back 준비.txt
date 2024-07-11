@@ -2,8 +2,11 @@ mysql installer 설치
 java 17버전 설치 
 포스트맨 설치 
 
+spring.datasource.username=newuser1
+spring.datasource.password=q1w2e3r4!
+
 MYSQL Workbench에 들어가서 DB 만들기 
-DB 이름은 springsecurity
+스키마 이름은 springsecurity
 
 - 프로그램 실행 
 cmd창 들어가기 
