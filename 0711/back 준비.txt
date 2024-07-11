@@ -3,7 +3,7 @@ java 17버전 설치
 포스트맨 설치 
 
 MYSQL Workbench에 들어가서 DB 만들기 
-이름은 ssafysecurity
+DB 이름은 springsecurity
 
 - 프로그램 실행 
 cmd창 들어가기 
@@ -11,3 +11,4 @@ SpringJWT-0.0.1-userAPITest.jar 파일 폴더에 넣기
 폴더에 들어가서 
 java -jar (파일이름)
 java -jar SpringJWT-0.0.1-userAPITest.jar
+http://localhost:8080/ 에 들어가면 main 화면이 뜬다 
