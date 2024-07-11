@@ -1,0 +1,7 @@
+mysql installer 설치 
+java 17버전 설치 
+포스트맨 설치 
+
+- 프로그램 실행 
+cmd창 들어가기 
+java -jar 폴더이름 
