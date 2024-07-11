@@ -4,4 +4,7 @@ java 17버전 설치
 
 - 프로그램 실행 
 cmd창 들어가기 
-java -jar 폴더이름 
+SpringJWT-0.0.1-userAPITest.jar 파일 폴더에 넣기 
+폴더에 들어가서 
+java -jar (파일이름)
+java -jar SpringJWT-0.0.1-userAPITest.jar
