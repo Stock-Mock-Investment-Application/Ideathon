@@ -1,3 +1,6 @@
 
 내가 그린 기린 그림
 https://github.com/hmschlng/girin-project
+
+gen-ai-image-generator
+https://github.com/kapilraghuwanshi/gen-ai-image-generator?tab=readme-ov-file
