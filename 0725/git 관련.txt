@@ -1,0 +1,11 @@
+
+cd S11P12C107/
+git switch -t origin/front-dev
+git pull
+git checkout front-ai ( 생성하기 ) 
+cd frontend/
+npm install
+
+git add . 
+git commit -m "메세지" 
+git push origin 
