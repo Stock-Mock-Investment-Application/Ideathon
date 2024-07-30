@@ -1,0 +1,19 @@
+- 박보람 : 
+FE 캐릭터 기능 확인, front-dev 브랜치 정리 후 dev 브랜치 병합
+- 김연지 : 
+proxy 설정 재시도, 
+User dummydata 생성 및 user 기능 test
+- 정소영 : charactor 기능 js-> ts 로 변경
+- 이중현 : 
+user쪽 backdev 합치고 나서 dev쪽 진행,
+user 기능 완료 되면 스토리 기능 진행 예정 
+- 김시온 : 
+스튜디오, 캐릭터, 아이디어
+ CRUD 백엔드 구현
+
+- 서한빈 : Y-RTC test
+
+- 공통 : 
+zira update(sp40이상-서한빈, 정소영) 업로드
+zira 작성시 컨벤션  지키기 : -- 작성, --기능, 단어로 끝내기 
+front-dev, back-dev => dev merge후 연결 확인
