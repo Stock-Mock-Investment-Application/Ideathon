@@ -1,0 +1,22 @@
+Frontend:
+React - A JavaScript library for building user interfaces.
+Vite - A build tool that provides a fast development server and optimizes the final bundle.
+WebRTC - A technology that enables real-time communication (audio, video) directly between browsers.
+Material-UI (MUI) - A popular React UI framework that implements Google's Material Design.
+Yjs - A high-performance library for building collaborative applications.
+Styled-components - A library for styling React components using tagged template literals.
+
+
+Backend:
+MongoDB - A NoSQL database known for its flexibility and scalability.
+Spring Boot - A framework for building Java-based enterprise applications.
+Spring Security - A security framework that provides authentication, authorization, and other security features for Java applications.
+
+
+Infrastructure:
+Amazon EC2 - A cloud computing service provided by AWS that offers scalable computing capacity.
+Jenkins - A popular open-source automation server used for continuous integration/continuous delivery (CI/CD).
+Docker - A platform for developing, shipping, and running applications in containers.
+Amazon S3 - An object storage service that offers scalability, data availability, security, and performance.
+AWS - Amazon Web Services, a comprehensive cloud computing platform.
+Nginx - A web server that can also be used as a reverse proxy, load balancer, and HTTP cache.
